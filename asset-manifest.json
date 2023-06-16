@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/distance-calculator/static/css/main.faf58b0d.css",
+    "main.js": "/distance-calculator/static/js/main.ad8606a5.js",
+    "static/js/787.6af3d53a.chunk.js": "/distance-calculator/static/js/787.6af3d53a.chunk.js",
+    "index.html": "/distance-calculator/index.html",
+    "main.faf58b0d.css.map": "/distance-calculator/static/css/main.faf58b0d.css.map",
+    "main.ad8606a5.js.map": "/distance-calculator/static/js/main.ad8606a5.js.map",
+    "787.6af3d53a.chunk.js.map": "/distance-calculator/static/js/787.6af3d53a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf58b0d.css",
+    "static/js/main.ad8606a5.js"
+  ]
+}
